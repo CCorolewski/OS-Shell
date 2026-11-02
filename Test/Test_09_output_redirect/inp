@@ -1,0 +1,3 @@
+echo redirected > shell_test_output_09.txt
+cat shell_test_output_09.txt
+rm shell_test_output_09.txt

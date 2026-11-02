@@ -1,0 +1,4 @@
+echo combined > shell_test_source_11.txt
+cat < shell_test_source_11.txt > shell_test_dest_11.txt
+cat shell_test_dest_11.txt
+rm shell_test_source_11.txt shell_test_dest_11.txt

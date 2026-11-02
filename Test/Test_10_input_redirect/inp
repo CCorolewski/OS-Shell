@@ -1,0 +1,3 @@
+echo inputworks > shell_test_input_10.txt
+cat < shell_test_input_10.txt
+rm shell_test_input_10.txt
